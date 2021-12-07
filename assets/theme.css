@@ -48,6 +48,10 @@
 .testimonial-quote-container blockquote, .testimonial-quote-container cite {
   padding-bottom: 10px;
 }
+
+.testimonial-quote-container blockquote p{
+  line-height: 1;
+}
 .testimonial-quote-container cite p{
   font-weight: bold;
 }
