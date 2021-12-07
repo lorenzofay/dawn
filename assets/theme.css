@@ -50,15 +50,15 @@
 }
 
 .testimonial-container{
-  display:flex!important;
-  flex-direction:row;
-  justify-content:center;
-  align-items:center;
   padding: 25px;
 }
 
 .testimonial-card{
   background-color: crimson;
+  display:flex!important;
+  flex-direction:row;
+  justify-content:center;
+  align-items:center;
 }
 
 
