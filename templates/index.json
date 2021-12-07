@@ -3,19 +3,11 @@
     "1638845497404223d5": {
       "type": "testimonials",
       "blocks": {
-        "163884549756212ece-0": {
-          "type": "quote",
-          "settings": {
-            "avatar": "shopify:\/\/shop_images\/henny-youngman-2.jpg",
-            "quote": "<p>If you're going to do something tonight that you'll be sorry for tomorrow morning, sleep late.<\/p>",
-            "author": "Henny Youngman"
-          }
-        },
         "163884549756212ece-1": {
           "type": "quote",
           "settings": {
-            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author’s name"
+            "quote": "<p>\"If you're going to do something tonight that you'll be sorry for tomorrow morning, sleep late.\"<\/p>",
+            "author": "Henny Youngman"
           }
         },
         "163884549756212ece-2": {
@@ -48,7 +40,6 @@
         }
       },
       "block_order": [
-        "163884549756212ece-0",
         "163884549756212ece-1",
         "163884549756212ece-2",
         "528f2bbf-97a5-4cdd-9156-8756d6a7a7ca",
