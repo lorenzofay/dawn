@@ -184,24 +184,38 @@
         "swipe_on_mobile": false
       }
     },
-    "1638842475d8f3b819": {
+    "1638845497404223d5": {
       "type": "testimonials",
       "blocks": {
-        "1638842475966abe55-0": {
+        "163884549756212ece-0": {
           "type": "quote",
           "settings": {
             "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
             "author": "Author’s name"
           }
         },
-        "1638842475966abe55-1": {
+        "163884549756212ece-1": {
           "type": "quote",
           "settings": {
             "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
             "author": "Author’s name"
           }
         },
-        "1638842475966abe55-2": {
+        "163884549756212ece-2": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author’s name"
+          }
+        },
+        "528f2bbf-97a5-4cdd-9156-8756d6a7a7ca": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author’s name"
+          }
+        },
+        "9cf2eb72-2cd7-4ca6-9c94-70327b830b73": {
           "type": "quote",
           "settings": {
             "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
@@ -210,9 +224,11 @@
         }
       },
       "block_order": [
-        "1638842475966abe55-0",
-        "1638842475966abe55-1",
-        "1638842475966abe55-2"
+        "163884549756212ece-0",
+        "163884549756212ece-1",
+        "163884549756212ece-2",
+        "528f2bbf-97a5-4cdd-9156-8756d6a7a7ca",
+        "9cf2eb72-2cd7-4ca6-9c94-70327b830b73"
       ],
       "settings": {
         "title": "Testimonials"
@@ -226,6 +242,6 @@
     "collage",
     "video",
     "multi_column",
-    "1638842475d8f3b819"
+    "1638845497404223d5"
   ]
 }
