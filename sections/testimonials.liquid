@@ -4,18 +4,20 @@
     {%- if section.blocks.size > 0 -%}
     {%- for block in section.blocks -%}
     <figure class="testimonial-container">
-      <div class="testimonial-img-container">
-        <img src="{%- if block.settings.avatar == blank -%}//cdn.shopify.com/s/files/1/0382/4185/files/male.png?v=1613363122{%-else-%}{{ block.settings.avatar | img_url: '300x300' }}{%-endif-%}" alt="Avatar">
-      </div>
-      <div class="testimonial-quote-container">
-        <blockquote>
-          {%- if block.settings.quote != blank -%}{{ block.settings.quote }}{%- endif -%}
-        </blockquote>
-        <footer>
-          <cite>
-            {%- if block.settings.author != blank -%}<p class="testimonial-author">{{ block.settings.author }}</p>{%- endif -%}
-          </cite>
-        </footer>
+      <div class="testimonial-card">
+        <div class="testimonial-img-container">
+          <img src="{%- if block.settings.avatar == blank -%}//cdn.shopify.com/s/files/1/0382/4185/files/male.png?v=1613363122{%-else-%}{{ block.settings.avatar | img_url: '300x300' }}{%-endif-%}" alt="Avatar">
+        </div>
+        <div class="testimonial-quote-container">
+          <blockquote>
+            {%- if block.settings.quote != blank -%}{{ block.settings.quote }}{%- endif -%}
+          </blockquote>
+          <footer>
+            <cite>
+              {%- if block.settings.author != blank -%}<p class="testimonial-author">{{ block.settings.author }}</p>{%- endif -%}
+            </cite>
+          </footer>
+        </div>
       </div>
     </figure>
     {%- endfor -%}
