@@ -35,7 +35,6 @@
 
 .testimonial-img-container img {
     border-radius: 50%;
-    max-width: 80%;
 }
 
 .testimonial-img-container{
@@ -54,11 +53,13 @@
 }
 
 .testimonial-card{
-  background-color: crimson;
   display:flex!important;
   flex-direction:row;
   justify-content:center;
   align-items:center;
+  box-shadow: inset 5em 1em gold;
+  padding: 10px;
+  border-radius: 10px;
 }
 
 
