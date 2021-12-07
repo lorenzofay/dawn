@@ -38,6 +38,9 @@
 .testimonial-img-container img {
     border-radius: 50%;
     max-width: 100%;
+    border-style: solid;
+    border-width: 2px;
+    border-color:darkgrey;
 }
 
 .testimonial-img-container{
