@@ -25,6 +25,3 @@ responsive: [
     }
     );
 });
-
-var cw = $('.testimonial-img-container img').width();
-$('.testimonial-img-container img').css({'height':cw+'px'});
