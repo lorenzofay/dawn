@@ -20,10 +20,6 @@ responsive: [
             slidesToShow: 1,
             slidesToScroll: 1
             }
-        },
-        {
-        breakpoint: 800,
-        settings: "unslick"
         }
     ]
     }
