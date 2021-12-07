@@ -30,7 +30,8 @@
 }
 
 .section-name{
-  text-align: center;
+  text-align: left;
+  margin-top: 25px;
 }
 
 .testimonial-img-container img {
