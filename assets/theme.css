@@ -64,10 +64,7 @@
         0.3em 0.3em 1em rgba(0,0,0,0.3);
   padding: 10px;
   border-radius: 10px;
-}
-
-.slick-dots{
-  margin-top: 25px!important;
+  margin-bottom:25px;
 }
 
 
